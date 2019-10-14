@@ -1,0 +1,41 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\AracGaleri\AracGaleri\bin\Debug\AracGaleri.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\bin\Debug\AracGaleri.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\bin\Debug\AracGaleri.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\bin\Debug\Npgsql.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\bin\Debug\Npgsql.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\bin\Debug\Npgsql.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.OtomobilForm.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.AdminForm.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.MotosikletForm.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.GirisForm.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.AdminCheckForm.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\AracGaleri\AracGaleri\obj\Debug\AracGaleri.UserCheckForm.resources
+F:\AlEsraa\AracGaleri\bin\Debug\AracGaleri.exe.config
+F:\AlEsraa\AracGaleri\obj\Debug\AracGaleri.exe
+F:\AlEsraa\AracGaleri\obj\Debug\AracGaleri.pdb
+F:\galeri\AracGaleri\bin\Debug\AracGaleri.exe.config
+F:\galeri\AracGaleri\obj\Debug\AracGaleri.exe
+F:\galeri\AracGaleri\obj\Debug\AracGaleri.pdb
+C:\Users\Esra\Desktop\galeri\AracGaleri\bin\Debug\AracGaleri.exe.config
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.exe
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.pdb
+C:\Users\Esra\Desktop\galeri\AracGaleri\bin\Debug\AracGaleri.exe
+C:\Users\Esra\Desktop\galeri\AracGaleri\bin\Debug\AracGaleri.pdb
+C:\Users\Esra\Desktop\galeri\AracGaleri\bin\Debug\Npgsql.dll
+C:\Users\Esra\Desktop\galeri\AracGaleri\bin\Debug\Npgsql.pdb
+C:\Users\Esra\Desktop\galeri\AracGaleri\bin\Debug\Npgsql.xml
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.csprojResolveAssemblyReference.cache
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.AdminForm.resources
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.AdminCheckForm.resources
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.GirisForm.resources
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.MisafirForm.resources
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.MotosikletForm.resources
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.OtomobilForm.resources
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.Properties.Resources.resources
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.UserCheckForm.resources
+C:\Users\Esra\Desktop\galeri\AracGaleri\obj\Debug\AracGaleri.csproj.GenerateResource.Cache
